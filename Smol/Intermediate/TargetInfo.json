@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Smol",
+			"Path": "C:\\Users\\vivienne.koh\\Perforce\\vivienne.koh_GP4_CME\\FG21_GDFT_GPFT_GP4_Team01\\Smol\\Source\\Smol.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SmolEditor",
+			"Path": "C:\\Users\\vivienne.koh\\Perforce\\vivienne.koh_GP4_CME\\FG21_GDFT_GPFT_GP4_Team01\\Smol\\Source\\SmolEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Smol.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Smol.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SmolEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Smol">
+      <UniqueIdentifier>{0E9B5540-1DAB-3135-943F-61B24A4A1263}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Smol\Smol.Build.cs">
+      <Filter>Source\Smol</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Smol\Smol.cpp">
+      <Filter>Source\Smol</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Smol\Smol.h">
+      <Filter>Source\Smol</Filter>
+    </ClInclude>
+    <Filter Include="Source\Smol\Private">
+      <UniqueIdentifier>{769E5FAD-A460-35A0-9BD1-64ACFAA1C5F3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Smol\Private\TestScript.cpp">
+      <Filter>Source\Smol\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Smol\Public">
+      <UniqueIdentifier>{A704361F-A821-3D3A-AC61-DB0D572B2566}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Smol\Public\TestScript.h">
+      <Filter>Source\Smol\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
