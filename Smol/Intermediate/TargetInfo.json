@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Smol",
+			"Path": "G:\\2_Perforce\\vivienne.koh_GP4_SoulCake\\FG21_GDFT-GPFT_GP4_Team01\\Smol\\Source\\Smol.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SmolEditor",
+			"Path": "G:\\2_Perforce\\vivienne.koh_GP4_SoulCake\\FG21_GDFT-GPFT_GP4_Team01\\Smol\\Source\\SmolEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
