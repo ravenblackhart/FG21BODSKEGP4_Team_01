@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\vivienne.koh\\perforce\\vivienne.koh_gp4_cme\\fg21_gdft_gpft_gp4_team01\\smol\\source\\smol\\private\\testscript.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vivienne.koh\\perforce\\vivienne.koh_gp4_cme\\fg21_gdft_gpft_gp4_team01\\smol\\intermediate\\build\\win64\\smoleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\vivienne.koh\\perforce\\vivienne.koh_gp4_cme\\fg21_gdft_gpft_gp4_team01\\smol\\intermediate\\build\\win64\\unrealeditor\\development\\smol\\definitions.smol.h",
+            "c:\\users\\vivienne.koh\\perforce\\vivienne.koh_gp4_cme\\fg21_gdft_gpft_gp4_team01\\smol\\source\\smol\\public\\testscript.h",
+            "c:\\users\\vivienne.koh\\perforce\\vivienne.koh_gp4_cme\\fg21_gdft_gpft_gp4_team01\\smol\\intermediate\\build\\win64\\unrealeditor\\inc\\smol\\testscript.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

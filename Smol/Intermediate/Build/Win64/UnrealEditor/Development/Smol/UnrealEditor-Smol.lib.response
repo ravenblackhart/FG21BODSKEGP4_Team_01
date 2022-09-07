@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Smol.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\vivienne.koh\Perforce\vivienne.koh_GP4_CME\FG21_GDFT_GPFT_GP4_Team01\Smol\Intermediate\Build\Win64\SmolEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\vivienne.koh\Perforce\vivienne.koh_GP4_CME\FG21_GDFT_GPFT_GP4_Team01\Smol\Intermediate\Build\Win64\UnrealEditor\Development\Smol\TestScript.cpp.obj"
+"C:\Users\vivienne.koh\Perforce\vivienne.koh_GP4_CME\FG21_GDFT_GPFT_GP4_Team01\Smol\Intermediate\Build\Win64\UnrealEditor\Development\Smol\Smol.cpp.obj"
+"C:\Users\vivienne.koh\Perforce\vivienne.koh_GP4_CME\FG21_GDFT_GPFT_GP4_Team01\Smol\Intermediate\Build\Win64\UnrealEditor\Development\Smol\Smol.init.gen.cpp.obj"
+"C:\Users\vivienne.koh\Perforce\vivienne.koh_GP4_CME\FG21_GDFT_GPFT_GP4_Team01\Smol\Intermediate\Build\Win64\UnrealEditor\Development\Smol\TestScript.gen.cpp.obj"
+"C:\Users\vivienne.koh\Perforce\vivienne.koh_GP4_CME\FG21_GDFT_GPFT_GP4_Team01\Smol\Intermediate\Build\Win64\UnrealEditor\Development\Smol\Default.rc2.res"
+/OUT:"C:\Users\vivienne.koh\Perforce\vivienne.koh_GP4_CME\FG21_GDFT_GPFT_GP4_Team01\Smol\Intermediate\Build\Win64\UnrealEditor\Development\Smol\UnrealEditor-Smol.lib"
